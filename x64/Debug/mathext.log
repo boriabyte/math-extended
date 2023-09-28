@@ -1,0 +1,6 @@
+﻿  mathext.cpp
+E:\Programming\VS\projects\mathext\mathext\mathext.cpp(15,29): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\VS\projects\mathext\mathext\mathext.cpp(33,29): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\VS\projects\mathext\mathext\mathext.cpp(61,30): warning C4018: '<': signed/unsigned mismatch
+E:\Programming\VS\projects\mathext\mathext\mathext.cpp(85,30): warning C4018: '<': signed/unsigned mismatch
+  mathext.vcxproj -> E:\Programming\VS\projects\mathext\x64\Debug\mathext.lib
